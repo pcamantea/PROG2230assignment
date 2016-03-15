@@ -352,6 +352,7 @@
     <Content Include="Views\Orders\Edit.cshtml" />
     <Content Include="Views\Orders\Details.cshtml" />
     <Content Include="Views\Products\ProductListing.cshtml" />
+    <Content Include="Views\Products\BasketSummary.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -376,6 +377,10 @@
     <ProjectReference Include="..\SampleMVCSite.Models\SampleMVCSite.Models.csproj">
       <Project>{ce1af373-8bf8-4701-8f71-88a8f5a89cb4}</Project>
       <Name>SampleMVCSite.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SampleMVCSite.Services\SampleMVCSite.Services.csproj">
+      <Project>{0297422f-c157-484b-ab67-77901022e1eb}</Project>
+      <Name>SampleMVCSite.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

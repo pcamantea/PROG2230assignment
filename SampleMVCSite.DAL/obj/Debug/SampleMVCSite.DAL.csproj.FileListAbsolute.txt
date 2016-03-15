@@ -225,7 +225,9 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\S
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial1.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddingBasket.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Migration2Test.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Migration2Test1.resources
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
-C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddingBasket.resources

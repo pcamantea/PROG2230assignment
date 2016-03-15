@@ -1,4 +1,3 @@
-C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\obj\Debug\SampleMVCSite.Services.csprojResolveAssemblyReference.cache
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\SampleMVCSite.Services.dll.config
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\SampleMVCSite.Services.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\SampleMVCSite.Services.pdb
@@ -31,5 +30,6 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\De
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\obj\Debug\SampleMVCSite.Services.csprojResolveAssemblyReference.cache
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\obj\Debug\SampleMVCSite.Services.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Services\obj\Debug\SampleMVCSite.Services.pdb

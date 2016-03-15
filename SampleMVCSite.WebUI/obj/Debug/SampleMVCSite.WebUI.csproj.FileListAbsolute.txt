@@ -826,6 +826,7 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\Owin.
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Contracts.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.DAL.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Models.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Services.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\System.Web.Helpers.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\System.Web.Mvc.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\System.Web.Optimization.dll
@@ -838,6 +839,7 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\WebGr
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Contracts.pdb
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.DAL.pdb
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Models.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\SampleMVCSite.Services.pdb
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\EntityFramework.xml
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

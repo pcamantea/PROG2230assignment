@@ -1,5 +1,6 @@
 ﻿using SampleMVCSite.Contracts.Repositories;
 using SampleMVCSite.Models;
+using SampleMVCSite.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,10 +12,14 @@ namespace SampleMVCSite.WebUI.Controllers
     public class ProductsController : Controller
     {
         IRepositoryBase<Product> productRepository;
+        IRepositoryBase<Basket> baskets;
+        BasketService basketService;
 
-        public ProductsController(IRepositoryBase<Product> productRepository)
+        public ProductsController(IRepositoryBase<Product> productRepository, IRepositoryBase<Basket> baskets)
         {
+            this.baskets = baskets;
             this.productRepository = productRepository;
+            basketService = new BasketService(this.baskets);
         }
 
         public ActionResult Index()
@@ -64,7 +69,7 @@ namespace SampleMVCSite.WebUI.Controllers
 
         public ActionResult Delete(int id)
         {
-            var model = new Product { ProductId = id };
+            var model = new Product { ProductID = id };
 
             productRepository.Delete(model);
             productRepository.Commit();
@@ -77,6 +82,18 @@ namespace SampleMVCSite.WebUI.Controllers
         {
             Product model = productRepository.GetById(id);
             return View(model);
+        }
+
+        public ActionResult BasketSummary()
+        {
+            var model = basketService.GetBasket(this.HttpContext);
+            return View(model.BasketItems);
+        }
+
+        public ActionResult AddToBasket(int id)
+        {
+            basketService.AddToBasket(this.HttpContext, id, 1);//always add one to the basket
+            return RedirectToAction("BasketSummary");
         }
     }
 }

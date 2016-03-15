@@ -1,0 +1,38 @@
+﻿@model SampleMVCSite.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h2>Order Details</h2>
+
+
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.OrderDate)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.OrderDate)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.CustomerId)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.CustomerId)</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.OrderId }, new { @class = "btn btn-primary btn-large " })
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary btn-large " })
+            </p>
+
+        </div>
+    </div>
+</section>

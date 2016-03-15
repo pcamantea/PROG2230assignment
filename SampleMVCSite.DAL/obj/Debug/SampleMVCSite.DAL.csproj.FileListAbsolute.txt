@@ -1,0 +1,230 @@
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03a - SampleMVCProject\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\WebActivatorEx.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial1.resources
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\WebActivatorEx.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial1.resources
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\pca\OneDrive\Conestoga\PROG2230\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll.config
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.DAL.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\WebActivatorEx.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.AddCostPrice.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.Migrations.Initial1.resources
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.csproj.GenerateResource.Cache
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.DAL\obj\Debug\SampleMVCSite.DAL.pdb

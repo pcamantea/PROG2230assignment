@@ -1,0 +1,65 @@
+﻿@model SampleMVCSite.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h2>Customer Details</h2>
+
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.CustomerName)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.CustomerName)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Address1)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Address1)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Address1)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Address1)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Address2)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Address2)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Town)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Town)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.PostalCode)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.PostalCode)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.HomePhone)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.HomePhone)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.BusinessPhone)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.BusinessPhone)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.EmailAddress)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.EmailAddress)</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerId }, new { @class = "btn btn-primary btn-large " })
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary btn-large " })
+            </p>
+
+        </div>
+    </div>
+</section>

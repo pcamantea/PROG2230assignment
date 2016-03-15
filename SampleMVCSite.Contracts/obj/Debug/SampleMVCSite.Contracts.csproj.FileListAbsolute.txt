@@ -1,0 +1,34 @@
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\03c - SampleMVCProject - Completed Interfaces\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+G:\PROG2230\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pca\Desktop\A1\PAmanteaA1\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment1\PAmantea_Assignment1\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb

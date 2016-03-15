@@ -1,0 +1,45 @@
+﻿@model SampleMVCSite.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h2>Product Details</h2>
+
+
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <div class="list-group ">
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Description)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Description)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.ImageUrl)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.ImageUrl)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Price)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Price)</p>
+                        </a>
+                        <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.CostPrice)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.CostPrice)</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }, new { @class = "btn btn-primary btn-large " })
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary btn-large " })
+            </p>
+        </div>
+    </div>
+</section>

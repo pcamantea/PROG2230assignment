@@ -32,3 +32,4 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\bin\D
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache

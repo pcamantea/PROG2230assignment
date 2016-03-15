@@ -37,7 +37,8 @@
             </div>
 
             <p>
-                @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }, new { @class = "btn btn-primary btn-large " })
+                @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }, new { @class = "btn btn-primary btn-large " }) 
+                @Html.ActionLink("Add to Basket", "AddToBasket", new { id = Model.ProductID }, new { @class = "btn btn-primary btn-large " })
                 @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary btn-large " })
             </p>
         </div>

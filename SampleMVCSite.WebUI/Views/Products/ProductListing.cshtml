@@ -18,7 +18,7 @@
                         <li>
                             <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" class="">
 
-                            <h4 class="">@Html.DisplayFor(modelItem => item.Description)</h4>
+                            <h4 class="">@Html.DisplayFor(modelItem => item.ProductDescription)</h4>
                             <div class="product-price">
                                 <span class="cut-price">CAD$ @Html.DisplayFor(modelItem => item.Price)0</span>
                                 <span class="normal-price">CAD$ @Html.DisplayFor(modelItem => item.CostPrice)</span>
@@ -26,11 +26,11 @@
                             </div>
                             @*@Html.ActionLink("Details", "Details", new { id = item.ProductId }, new { @class = "btn btn-primary btn-large" })*@
                             <i class="icon-pencil icon-menu"></i>
-                            @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }, new { @class = "actionLinkEdit" }) &nbsp;
+                            @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }, new { @class = "actionLinkEdit" }) &nbsp;
                             <i class="icon-info icon-menu"></i>
-                            @Html.ActionLink("Details", "Details", new { id = item.ProductId }, new { @class = "actionLinkDetails" })
+                            @Html.ActionLink("Details", "Details", new { id = item.ProductID }, new { @class = "actionLinkDetails" })
                             <i class="icon-trash icon-menu"></i>
-                            @Html.ActionLink("Delete", "Delete", new { id = item.ProductId }, new { @class = "actionLinkDelete", onclick = "return confirm('Are you sure you wish to delete this record?');" })
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ProductID }, new { @class = "actionLinkDelete", onclick = "return confirm('Are you sure you wish to delete this record?');" })
                         </li>
                     }
                 </ul>

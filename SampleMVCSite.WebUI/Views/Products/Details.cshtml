@@ -16,8 +16,8 @@
                 <div class="col-sm-8">
                     <div class="list-group ">
                         <a href="#" class="list-group-item">
-                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.Description)</h4>
-                            <p class="list-group-item-text">@Html.DisplayFor(model => model.Description)</p>
+                            <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.ProductDescription)</h4>
+                            <p class="list-group-item-text">@Html.DisplayFor(model => model.ProductDescription)</p>
                         </a>
                         <a href="#" class="list-group-item">
                             <h4 class="list-group-item-heading">@Html.DisplayNameFor(model => model.ImageUrl)</h4>
@@ -37,7 +37,7 @@
             </div>
 
             <p>
-                @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }, new { @class = "btn btn-primary btn-large " })
+                @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }, new { @class = "btn btn-primary btn-large " })
                 @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary btn-large " })
             </p>
         </div>

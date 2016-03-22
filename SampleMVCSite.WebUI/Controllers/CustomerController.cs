@@ -21,12 +21,13 @@ namespace SampleMVCSite.WebUI.Controllers
 
         public ActionResult Index()
         {
-            //List<Customer> customers = new List<Customer>();
-            //customers.Add(new Customer() { CustomerId = 1, CustomerName = "Customer 1", Address1 = "Address 1", EmailAddress = "email1@gmail.com", Town = "Kitchener" });
-            //customers.Add(new Customer() { CustomerId = 2, CustomerName = "Customer 2", Address1 = "Address 2", EmailAddress = "email2@gmail.com", Town = "Kitchener" });
-            //customers.Add(new Customer() { CustomerId = 3, CustomerName = "Customer 3", Address1 = "Address 3", EmailAddress = "email3@gmail.com", Town = "Kitchener" });
-            //return View(customers);
+            var model = customers.GetAll();
 
+            return View(model);
+        }
+
+        public ActionResult ListingForUsers()
+        {
             var model = customers.GetAll();
 
             return View(model);

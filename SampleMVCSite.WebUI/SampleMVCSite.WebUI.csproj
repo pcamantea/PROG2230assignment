@@ -355,6 +355,8 @@
     <Content Include="Views\Products\BasketSummary.cshtml" />
     <Content Include="Views\Products\ListingForUsers.cshtml" />
     <Content Include="Views\Products\DetailsForCustomer.cshtml" />
+    <Content Include="Views\Customer\ListingForUsers.cshtml" />
+    <Content Include="Views\Orders\ListingForUsers.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

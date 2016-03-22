@@ -4,54 +4,57 @@
     ViewBag.Title = "Basket Summary";
 }
 
-<h2>Basket Summary</h2>
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h2>Basket Summary</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Product.ImageUrl)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.BasketID)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Product.ProductDescription)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Product.Price)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Quantity)
-        </th>
-        <th></th>
-    </tr>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Product.ImageUrl)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.BasketID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Product.ProductDescription)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Product.Price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Quantity)
+                    </th>
+                    <th></th>
+                </tr>
 
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td>
-                <img style="width:15%" src="/img/@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BasketID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Product.ProductDescription)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Product.Price)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Quantity)
-            </td>
-            <td>
-                @Html.ActionLink("Details", "Details", new { id = item.BasketItemID }, "Products") |
-                @Html.ActionLink("Delete", "Delete", new { id = item.BasketItemID })
-            </td>
-        </tr>
-    }
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <img style="width:15%" src="/img/@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BasketID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.ProductDescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Details", "DetailsForCustomer", new { id = item.BasketItemID }, "Products") |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.BasketItemID })
+                        </td>
+                    </tr>
+                }
 
-</table>
+            </table>
+        </div>
+    </div>
+</section>

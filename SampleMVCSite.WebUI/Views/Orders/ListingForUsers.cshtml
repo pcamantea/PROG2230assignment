@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SampleMVCSite.Models.Order>
+
+@{
+    ViewBag.Title = "Orders Listing";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h3>Orders Listing</h3>
+
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">Orders Listing</div>
+
+                <table class="table fixed">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.OrderDate)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CustomerId)
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.OrderDate)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CustomerId)
+                            </td>
+                            <td width="282px">
+                              
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+
+

@@ -25,6 +25,13 @@ namespace SampleMVCSite.WebUI.Controllers
             return View(model);
         }
 
+        public ActionResult ListingForUsers()
+        {
+            var model = ordersRepository.GetAll();
+
+            return View(model);
+        }
+
         public ActionResult Create()
         {
             var model = new Order();

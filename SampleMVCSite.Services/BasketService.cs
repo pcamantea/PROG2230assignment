@@ -77,6 +77,11 @@ namespace SampleMVCSite.Services
                 if (Guid.TryParse(cookie.Value, out basketId))
                 {
                     basket = baskets.GetById(basketId);
+
+                    if (basket == null)
+                    {
+                        basket = createNewBasket(httpContext);
+                    }
                 }
                 else
                 {

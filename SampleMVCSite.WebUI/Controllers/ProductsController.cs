@@ -27,7 +27,15 @@ namespace SampleMVCSite.WebUI.Controllers
             //var model = productRepository.GetAll();
 
             //return View(model);
+            //return RedirectToAction("ProductListing", "Products");
             return RedirectToAction("ProductListing", "Products");
+        }
+
+        public ActionResult ListingForUsers()
+        {
+            var model = productRepository.GetAll();
+
+            return View(model);
         }
 
         public ActionResult ProductListing()
@@ -79,6 +87,12 @@ namespace SampleMVCSite.WebUI.Controllers
         }
 
         public ActionResult Details(int id)
+        {
+            Product model = productRepository.GetById(id);
+            return View(model);
+        }
+
+        public ActionResult DetailsForCustomer(int id)
         {
             Product model = productRepository.GetById(id);
             return View(model);

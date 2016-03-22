@@ -466,7 +466,6 @@ a:focus {
   -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
   -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
   box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
-  overflow: hidden;
 }
 .navbar-default .first a {
   border-radius: 0 0 0 5px;

@@ -87,3 +87,13 @@ C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Models\bin\Debu
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
 C:\Users\pamantea9772\Desktop\PAmantea_Assignment2\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll.config
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.dll
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\SampleMVCSite.Models.pdb
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\EntityFramework.dll
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\EntityFramework.xml
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.dll
+C:\Users\pca\Documents\MVCassignment\PROG2230assignment\SampleMVCSite.Models\obj\Debug\SampleMVCSite.Models.pdb

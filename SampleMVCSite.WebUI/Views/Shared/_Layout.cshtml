@@ -27,11 +27,19 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                        <li><a href="~/Customer/Index">Customer</a></li>
-                        <li><a href="~/Products/Index">Products</a></li>
-                        <li><a href="~/Orders/Index">Orders</a></li>
+                        <li><a href="~/Products/ListingForUsers">Products</a></li>
+                        <li><a href="~/Customer/ListingForUsers">Customer</a></li>
+                        <li><a href="~/Orders/ListingForUsers">Orders</a></li>
                         <li><a href="~/Products/BasketSummary">Basket</a></li>
-                    </ul>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Admin <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="~/Products/Index">Products</a></li>
+                                <li><a href="~/Customer/Index">Customers</a></li>
+                                <li><a href="~/Orders/Index">Orders</a></li>
+                            </ul>
+                        </li>
+                      </ul>
                 </div>
             </div>
         </div>

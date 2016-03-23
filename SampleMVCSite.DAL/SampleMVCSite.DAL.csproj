@@ -106,29 +106,9 @@
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\UnityMvcActivator.cs" />
     <Compile Include="Data\DataContext.cs" />
-    <Compile Include="Migrations\201601240324169_Initial.cs" />
-    <Compile Include="Migrations\201601240324169_Initial.Designer.cs">
-      <DependentUpon>201601240324169_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201601250917292_AddCostPrice.cs" />
-    <Compile Include="Migrations\201601250917292_AddCostPrice.Designer.cs">
-      <DependentUpon>201601250917292_AddCostPrice.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201602091641144_Initial1.cs" />
-    <Compile Include="Migrations\201602091641144_Initial1.Designer.cs">
-      <DependentUpon>201602091641144_Initial1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201603151500086_AddingBasket.cs" />
-    <Compile Include="Migrations\201603151500086_AddingBasket.Designer.cs">
-      <DependentUpon>201603151500086_AddingBasket.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201603151507105_Migration2Test.cs" />
-    <Compile Include="Migrations\201603151507105_Migration2Test.Designer.cs">
-      <DependentUpon>201603151507105_Migration2Test.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201603151511502_Migration2Test1.cs" />
-    <Compile Include="Migrations\201603151511502_Migration2Test1.Designer.cs">
-      <DependentUpon>201603151511502_Migration2Test1.cs</DependentUpon>
+    <Compile Include="Migrations\201603231734511_initial.cs" />
+    <Compile Include="Migrations\201603231734511_initial.Designer.cs">
+      <DependentUpon>201603231734511_initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -137,26 +117,6 @@
     <Compile Include="Repositories\Orders.cs" />
     <Compile Include="Repositories\ProductRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201601240324169_Initial.resx">
-      <DependentUpon>201601240324169_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201601250917292_AddCostPrice.resx">
-      <DependentUpon>201601250917292_AddCostPrice.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201602091641144_Initial1.resx">
-      <DependentUpon>201602091641144_Initial1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201603151500086_AddingBasket.resx">
-      <DependentUpon>201603151500086_AddingBasket.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201603151507105_Migration2Test.resx">
-      <DependentUpon>201603151507105_Migration2Test.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201603151511502_Migration2Test1.resx">
-      <DependentUpon>201603151511502_Migration2Test1.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SampleMVCSite.Contracts\SampleMVCSite.Contracts.csproj">
@@ -173,6 +133,11 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201603231734511_initial.resx">
+      <DependentUpon>201603231734511_initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

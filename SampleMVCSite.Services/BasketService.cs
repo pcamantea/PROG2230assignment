@@ -94,5 +94,23 @@ namespace SampleMVCSite.Services
             }
             return basket;
         }
+
+        public BasketItem GetBasketItem(HttpContextBase httpContextBase, int id)
+        {
+            var basket = this.GetBasket(httpContextBase);
+
+            return basket.BasketItems.FirstOrDefault(i => i.ProductID == id);
+        }
+
+        public void UpdateQuantity(HttpContextBase httpContextBase, BasketItem model)
+        {
+            Basket basket = GetBasket(httpContextBase);
+
+            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.ProductID == model.ProductID);
+
+            item.Quantity = model.Quantity;
+
+            baskets.Commit();
+        }
     }
 }

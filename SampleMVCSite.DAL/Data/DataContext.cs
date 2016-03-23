@@ -15,5 +15,7 @@ namespace SampleMVCSite.DAL.Data
 
         public System.Data.Entity.DbSet<SampleMVCSite.Models.Basket> Baskets { get; set; }
 
+        public System.Data.Entity.DbSet<SampleMVCSite.Models.BasketItem> BasketItems { get; set; }
+
     }
 }

@@ -103,10 +103,32 @@ namespace SampleMVCSite.WebUI.Controllers
             var model = basketService.GetBasket(this.HttpContext);
             return View(model.BasketItems);
         }
-
+        
         public ActionResult AddToBasket(int id)
         {
-            basketService.AddToBasket(this.HttpContext, id, 1);//always add one to the basket
+            basketService.AddToBasket(this.HttpContext, id, 1);
+            return RedirectToAction("BasketSummary");
+        }
+
+        public ActionResult EditBasketItemQuantity(int id)
+        {
+            var basketItem = basketService.GetBasketItem(this.HttpContext, id);
+
+            return View(basketItem);
+        }
+
+        [HttpPost]
+        public ActionResult EditBasketItemQuantity(BasketItem model)
+        {
+            basketService.UpdateQuantity(this.HttpContext, model);
+
+            return RedirectToAction("BasketSummary");
+        }
+
+        public ActionResult DeleteBasketItem(int id)
+        {
+            basketService.UpdateQuantity(this.HttpContext, new BasketItem { ProductID = id, Quantity = 0 });
+
             return RedirectToAction("BasketSummary");
         }
     }

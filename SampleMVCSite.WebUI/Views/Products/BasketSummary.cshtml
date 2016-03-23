@@ -31,6 +31,7 @@
 
                 @foreach (var item in Model)
                 {
+                    if (item.Quantity == 0) { continue; }
                     <tr>
                         <td>
                             <img style="width:15%" src="/img/@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
@@ -48,8 +49,8 @@
                             @Html.DisplayFor(modelItem => item.Quantity)
                         </td>
                         <td>
-                            @Html.ActionLink("Details", "DetailsForCustomer", new { id = item.BasketItemID }, "Products") |
-                            @Html.ActionLink("Delete", "Delete", new { id = item.BasketItemID })
+                            @Html.ActionLink("Edit Quantity", "EditBasketItemQuantity", new { id = item.BasketItemID }, "Products") |
+                            @Html.ActionLink("Delete", "DeleteBasketItem", new { id = item.BasketItemID })
                         </td>
                     </tr>
                 }

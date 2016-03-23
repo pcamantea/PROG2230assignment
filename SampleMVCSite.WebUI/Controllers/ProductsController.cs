@@ -131,5 +131,21 @@ namespace SampleMVCSite.WebUI.Controllers
 
             return RedirectToAction("BasketSummary");
         }
+
+        public ActionResult EditSingleBasketItem(int id)
+        {
+            var basketItem = basketService.GetBasketItem(this.HttpContext, id);
+
+            return View(basketItem);
+        }
+
+        [HttpPost]
+        public ActionResult EditSingleBasketItem(BasketItem model)
+        {
+            basketService.UpdateBasketItem(this.HttpContext, model);
+
+            return RedirectToAction("BasketSummary");
+        }
+
     }
 }

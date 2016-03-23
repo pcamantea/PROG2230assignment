@@ -44,7 +44,8 @@
                         </td>
                         <td>
                             @Html.ActionLink("Edit Quantity", "EditBasketItemQuantity", new { id = item.BasketItemID }, "Products") |
-                            @Html.ActionLink("Delete", "DeleteBasketItem", new { id = item.BasketItemID })
+                            @Html.ActionLink("Delete", "DeleteBasketItem", new { id = item.BasketItemID }) |
+                            @Html.ActionLink("Edit", "EditSingleBasketItem", new { id = item.BasketItemID })
                         </td>
                     </tr>
                 }

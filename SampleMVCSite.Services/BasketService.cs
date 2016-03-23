@@ -99,7 +99,7 @@ namespace SampleMVCSite.Services
         {
             var basket = this.GetBasket(httpContextBase);
 
-            return basket.BasketItems.FirstOrDefault(i => i.ProductID == id);
+            return basket.BasketItems.FirstOrDefault(i => i.BasketItemID == id);
         }
 
         public void UpdateQuantity(HttpContextBase httpContextBase, BasketItem model)
@@ -109,6 +109,19 @@ namespace SampleMVCSite.Services
             BasketItem item = basket.BasketItems.FirstOrDefault(i => i.ProductID == model.ProductID);
 
             item.Quantity = model.Quantity;
+
+            baskets.Commit();
+        }
+
+        public void UpdateBasketItem(HttpContextBase httpContextBase, BasketItem model)
+        {
+            Basket basket = GetBasket(httpContextBase);
+
+            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.BasketItemID == model.BasketItemID);
+
+            item.Quantity = model.Quantity;
+            item.ProductID = model.ProductID;
+            item.BasketID = model.BasketID;
 
             baskets.Commit();
         }

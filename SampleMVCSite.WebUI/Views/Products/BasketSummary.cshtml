@@ -12,13 +12,10 @@
             <table class="table">
                 <tr>
                     <th>
-                        @Html.DisplayNameFor(model => model.Product.ImageUrl)
+                        Image
                     </th>
                     <th>
-                        @Html.DisplayNameFor(model => model.BasketID)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Product.ProductDescription)
+                        Description
                     </th>
                     <th>
                         @Html.DisplayNameFor(model => model.Product.Price)
@@ -33,11 +30,8 @@
                 {
                     if (item.Quantity == 0) { continue; }
                     <tr>
-                        <td>
-                            <img style="width:15%" src="/img/@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.BasketID)
+                        <td style ="width:15%">
+                            <img style="width:150px" src="@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
                         </td>
                         <td>
                             @Html.DisplayFor(modelItem => item.Product.ProductDescription)

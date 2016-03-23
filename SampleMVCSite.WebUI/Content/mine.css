@@ -33,6 +33,20 @@ a {
   -moz-box-shadow: none;
   box-shadow: none;
 }
+.btn.btn-danger:hover,
+.btn.btn-danger.active {
+  background-color: #810f0b;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.btn.btn-warning:hover,
+.btn.btn-warning.active {
+  background-color: #c25f00;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
 a:hover,
 a:focus {
   color: #80c9f1;
@@ -764,4 +778,42 @@ table.fixed td { overflow: hidden; }
 }
 @media (max-width:320px) {
   .thumbnail-list li { width: 100%}
+}
+
+
+.btn-primary.raised {
+    box-shadow: 0 3px 0 0 #007299;
+}
+.btn-danger.raised {
+    box-shadow: 0 3px 0 0 #810f0b;
+}
+.btn-warning.raised {
+    box-shadow: 0 3px 0 0 #810f0b;
+}
+
+.btn-primary.raised:active, .btn-primary.raised.active {
+    background: #33a6cc;
+    box-shadow: none;
+    margin-bottom: -3px;
+    margin-top: 3px;
+}
+
+.btn-warning.raised:active, .btn-warning.raised.active {
+    background: #ffa400;
+    box-shadow: none;
+    margin-bottom: -3px;
+    margin-top: 3px;
+}
+
+.btn-danger.raised:active, .btn-danger.raised.active {
+    background: #810f0b;
+    box-shadow: none;
+    margin-bottom: -3px;
+    margin-top: 3px;
+}
+.adminButtons {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
 }

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <h3>Administration Page</h3>
+
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">Administrative Pages</div>
+
+                <div class="adminButtons">
+                    <p>
+                        @Html.ActionLink("Manage Products", "ProductListing", "Products", null, new { @class = "btn btn-primary btn-lg raised" })
+
+                        @Html.ActionLink("Manage Orders", "Index", "Orders", null, new { @class = "btn btn-danger btn-lg raised" })
+
+                        @Html.ActionLink("Manage Customers", "Index", "Customer", null, new { @class = "btn btn-warning btn-lg raised" })
+                    </p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>

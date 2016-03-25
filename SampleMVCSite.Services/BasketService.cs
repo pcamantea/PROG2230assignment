@@ -106,7 +106,7 @@ namespace SampleMVCSite.Services
         {
             Basket basket = GetBasket(httpContextBase);
 
-            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.ProductID == model.ProductID);
+            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.BasketItemID == model.BasketItemID);
 
             item.Quantity = model.Quantity;
 

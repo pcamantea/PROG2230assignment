@@ -127,7 +127,7 @@ namespace SampleMVCSite.WebUI.Controllers
 
         public ActionResult DeleteBasketItem(int id)
         {
-            basketService.UpdateQuantity(this.HttpContext, new BasketItem { ProductID = id, Quantity = 0 });
+            basketService.UpdateQuantity(this.HttpContext, new BasketItem { BasketItemID = id, Quantity = 0 });
 
             return RedirectToAction("BasketSummary");
         }

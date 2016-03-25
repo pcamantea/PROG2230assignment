@@ -44,7 +44,7 @@
                         </td>
                         <td>
                             @Html.ActionLink("Edit Quantity", "EditBasketItemQuantity", new { id = item.BasketItemID }, "Products") |
-                            @Html.ActionLink("Delete", "DeleteBasketItem", new { id = item.BasketItemID }) |
+                            @Html.ActionLink("Delete", "DeleteBasketItem", new { id = item.BasketItemID }, new { onclick = "return confirm('Do you want to remove this item from your basket?');" }) |
                             @Html.ActionLink("Edit", "EditSingleBasketItem", new { id = item.BasketItemID })
                         </td>
                     </tr>
